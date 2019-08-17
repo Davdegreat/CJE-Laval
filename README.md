@@ -5,6 +5,10 @@ Job & School related ressource.
 Json Resumer Builder
 https://resumake.io
 
+https://resume-nation.github.io/#/home
+
+https://cvcje.netlify.com/
+
 Job Search Manage
 https://www.jibberjobber.com/login.php
 
